@@ -2,9 +2,9 @@
   "name": "08-socket-basico",
   "version": "1.0.0",
   "description": "Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
